@@ -1,0 +1,4 @@
+# Speed up scroll speed in chromium
+"^chromium$"
+  None, Up, Button4, 4
+  None, Down, Button5, 4
